@@ -1,0 +1,14 @@
+*.mdf
+*.ldf
+.git
+out/
+*idea/
+<<<<<<< HEAD:src/.gitignore
+*.log
+*.h
+*.class
+*.dll
+*.vs/
+=======
+*.vs
+>>>>>>> eb49b6588b533cbf09b31dcfc64ddf8b2d4361f0:.gitignore
